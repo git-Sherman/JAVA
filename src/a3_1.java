@@ -22,7 +22,7 @@ public class a3_1 {
 		while(true)
 		{
 			count=0;
-		System.out.println("请输入数字：");
+		System.out.println("请输入你要的数字：");
 		int number=in.nextInt();
 									
 		do

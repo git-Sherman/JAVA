@@ -24,7 +24,7 @@ public class a3_2_1 {
 			System.out.println(count);
 			count=count-1;
 		}while(count>0);
-		System.out.println("发射");
+		System.out.println("发射啦");
 	}	
 
 }

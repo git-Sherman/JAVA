@@ -5,7 +5,7 @@ import java.util.Scanner;
  */
 
 /**
- * @author 路春辉
+ * @author 路春辉和林升淼
  * @version $1.0, 2015-11-27 2015-11-27 GMT+08:00
  * @since JDK5
  */

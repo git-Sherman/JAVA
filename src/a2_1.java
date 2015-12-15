@@ -21,7 +21,7 @@ public class a2_1 {
 //		System.out.println("a和b的结果是："+(Math.abs(a-b)<1e-6));
 		while(true)
 		{
-		System.out.println("请投币");
+		System.out.println("请您投币");
 		int amount=lin.nextInt();
 		balance=balance+amount;
 //		System.out.println(amount);
